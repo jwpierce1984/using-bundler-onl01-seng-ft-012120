@@ -10,5 +10,5 @@ gem 'octokit', '~> 2.0'
     gem "pry"
   end
   
-  group :test do
+  group :default do
   gem "rspec"
